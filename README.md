@@ -16,7 +16,6 @@
 </p>
 
 ---
-
 ### 🎨 **About Me**
 
 I'm a **Software Engineer 3** at **JumpCloud** with a passion for turning ideas into digital reality. I specialize in **Golang, Python and Vue.JS**, but I’m always looking to explore new tools and frameworks. When I'm not coding, you'll find me experimenting with design, gaming, or painting.
@@ -70,3 +69,6 @@ Feel free to reach out via any of the following channels:
 <p align="center">
   <img src="https://img.shields.io/badge/Thanks_for_visiting-%230A66C2?logo=github&logoColor=white&style=for-the-badge" alt="Thank You Badge" />
 </p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shubhamdhatrak&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamdhatrak" /> </p>
+
