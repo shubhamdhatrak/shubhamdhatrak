@@ -1,74 +1,94 @@
-<h1 align="center">
-  <span style="font-family: 'Roboto', sans-serif; font-weight: 600; color: #3f3f3f;">Hi, I'm Shubham Dhatrak 👋</span>
-</h1>
+<h1 align="center">Hi, I'm Shubham Dhatrak</h1>
 
 <p align="center">
-  <em>Crafting digital experiences with code and creativity </em> 🌍✨
+  <strong>Senior Software Engineer</strong> | ~8 years building backend platforms, IAM, and device management at scale
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubhamdhatrak">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/shubhamdhatrak">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
   </a>
   <a href="https://twitter.com/shubhamdhatrak_">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://shubhamdhatrak.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-0E7490?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
 
 ---
-### 🎨 **About Me**
 
-I'm a **Software Engineer 3** at **JumpCloud** with a passion for turning ideas into digital reality. I specialize in **Golang, Python and Vue.JS**, but I’m always looking to explore new tools and frameworks. When I'm not coding, you'll find me experimenting with design, gaming, or painting.
+### About
 
-- 🔭 Currently working at: **JumpCloud**.
-- 🌍  I am currently based in India.
-- ✉️  You can contact me at [shubhamdhatrak04@gmail.com](mailto:shubhamdhatrak04@gmail.com)
-- 🤝  I'm open to collaborating on interesting projects.
+I am a **Senior Software Engineer at [JumpCloud](https://jumpcloud.com)** in Pune, India. I design and ship production services from POC through Kubernetes deployments: multi-tenant APIs, DSL-driven platforms, and identity-aware systems that IT teams rely on daily.
+
+Before JumpCloud, I spent three years at **ZS Associates** on enterprise IAM (OAuth 2.0, SAML, SCIM, microservices, and SDKs in Java and .NET). Earlier internships covered Android apps and data visualization (R Shiny, D3.js).
+
+**B.Tech Electronics & Telecommunication**, Vishwakarma Institute of Technology, Pune (2015-2019).
 
 ---
 
-### 🌐 **My Tech Stack**
+### Highlights
 
-I work with a variety of technologies, and I love exploring new ones! Here's a snapshot of my favorite tools:
+| Area | What I built |
+|------|----------------|
+| **Security & access governance** (current) | Posture, risk scoring, and certification workflows for human and non-human identities |
+| **Workflow automation** | No-code engine with a custom DSL, Vue.js builder, Kafka, Temporal, and PostgreSQL |
+| **Reporting platform** | Centralized data model and search API; report runs from ~30 minutes down to seconds |
+| **Android EMM / MDM** | Greenfield Go service integrated with Google EMM; **100K+** managed devices, zero-trust policies |
+| **Windows MDM** | CSP-based software management, Chocolatey, and private app repositories |
+| **Enterprise auth (ZS)** | Unified auth platform; up to **40%** platform cost reduction, **10K+** users on OAuth2 and biometrics |
+
+More detail: **[portfolio site](https://shubhamdhatrak.github.io/portfolio/)** | **[source](https://github.com/shubhamdhatrak/portfolio)**
+
+---
+
+### Tech I work with
+
+**Backend & APIs:** Go, Java, gRPC, REST, Protocol Buffers, DSL design
+
+**Data & messaging:** PostgreSQL, Kafka, Temporal, ETL and query optimization
+
+**Infra & delivery:** Kubernetes, GitOps (Argo CD), Terraform, AWS, GCP, Docker, CI/CD
+
+**Frontend:** Vue.js, Angular
+
+**Security & platforms:** OAuth 2.0, SAML, SCIM, LDAP, Android EMM/MDM, Windows MDM, MCP
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/gRPC-7A7A7A?logo=grpc&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/REST-25D366?logo=rest&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/WebRTC-FF6F00?logo=webrtc&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square" alt="Java" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white&style=flat-square" alt="Terraform" />
+  <img src="https://img.shields.io/badge/gRPC-244c5a?logo=grpc&logoColor=white&style=flat-square" alt="gRPC" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=flat-square" alt="Kafka" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" alt="AWS" />
 </p>
 
 ---
 
-### 🌱 **Currently Learning:**
+### Now
 
-- **DevOps**  
-  Learning **CI/CD** practices, **Infrastructure as Code** with **Terraform**, containerization with **Docker**, and continuous monitoring.
-- **AI Agents**  
-  Learning to build **autonomous AI agents** capable of decision-making, reinforcement learning, and interacting with dynamic environments.
-- **AI and LLMs**  
-  Understanding and working with **Large Language Models** (**LLMs**) and **AI agents** for building intelligent systems and autonomous decision-making.
+- Identity security governance at JumpCloud (access posture, risk, certification)
+- Workflow and platform work with durable orchestration and event-driven pipelines
+- Exploring MCP and LLM-backed tooling for internal APIs and automation
 
 ---
 
-### 📬 **Let's Connect!**
+### Contact
 
-Feel free to reach out via any of the following channels:
+Open to interesting collaborations and backend/platform conversations.
 
-- [LinkedIn](https://www.linkedin.com/in/shubhamdhatrak)
-- [Twitter](https://twitter.com/shubhamdhatrak_)
-- [Email](mailto:shubhamdhatrak04@example.com)
+- Email: [shubhamdhatrak04@gmail.com](mailto:shubhamdhatrak04@gmail.com)
+- LinkedIn: [linkedin.com/in/shubhamdhatrak](https://www.linkedin.com/in/shubhamdhatrak)
+- Twitter: [@shubhamdhatrak_](https://twitter.com/shubhamdhatrak_)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Thanks_for_visiting-%230A66C2?logo=github&logoColor=white&style=for-the-badge" alt="Thank You Badge" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=shubhamdhatrak&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=shubhamdhatrak&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamdhatrak" /> </p>
-
